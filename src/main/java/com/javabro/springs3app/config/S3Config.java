@@ -1,4 +1,4 @@
-package com.javabro.springs3app;
+package com.javabro.springs3app.config;
 
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.context.annotation.Bean;
